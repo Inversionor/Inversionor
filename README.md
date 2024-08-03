@@ -34,5 +34,4 @@
   <li><a href="https://inverisonor.asia/">An amazing article about cutting-edge technology</li>
 </ul>
 
-------------
-<p align="center">This <i>README</i> file is generated every 3 hours!</br>Last refresh: Saturday, 3 August, 14:01 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+
