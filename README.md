@@ -16,6 +16,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 65px;">
+  <img alt="Spring" src="https://simpleicons.org/icons/spring.svg&logoColor=white" />
+
 </p>
 <h3>Open source projects</h3>
 <table>
