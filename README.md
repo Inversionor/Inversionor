@@ -26,9 +26,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      
-    </tr>
+   
   </tbody>
 </table>
 <h3>My latest posts</h3>
